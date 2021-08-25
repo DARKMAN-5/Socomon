@@ -1,6 +1,6 @@
 # Socomon
 
-It is a Social Media Application that uses Node js as a Backend Language and MySql database for storing user data.
+A Social Media Application.
 
 # Welcome Page
 
