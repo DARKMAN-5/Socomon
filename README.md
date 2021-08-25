@@ -1,6 +1,6 @@
 # Socomon
 
-A Social Media Application.
+A Social Media Web Application.
 
 # Welcome Page
 
